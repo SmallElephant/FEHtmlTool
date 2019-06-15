@@ -1,0 +1,6 @@
+framework module FEHtmlTool {
+  umbrella header "FEHtmlTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

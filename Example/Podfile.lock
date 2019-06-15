@@ -1,0 +1,16 @@
+PODS:
+  - FEHtmlTool (0.1.0)
+
+DEPENDENCIES:
+  - FEHtmlTool (from `../`)
+
+EXTERNAL SOURCES:
+  FEHtmlTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FEHtmlTool: 49b2ffededf6dc19e9655f5e654763641c9e5986
+
+PODFILE CHECKSUM: 21108cb617248a36efa54723cb1a54552fcc5de1
+
+COCOAPODS: 1.6.1
